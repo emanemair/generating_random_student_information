@@ -57,11 +57,5 @@ The generated `students.csv` file contains student information:
 
 ### Contributors
 
-- [Your Name](https://github.com/yourgithubusername)
+- [eman emair ](https://github.com/emanemair)
 
-### License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Markdown is a straightforward language for formatting text on the web. This README.md file structure explains the project, its components, dependencies, usage instructions, and potential improvements. You can save this content in a file named `README.md` within your project directory. Adjust the sections and content to fit your project specifics.
